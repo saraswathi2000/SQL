@@ -1,4 +1,4 @@
--- sql date functions
+-- sql Date functions
 
 -- GET CURRENT DATE
 SELECT CURRENT_DATE;
