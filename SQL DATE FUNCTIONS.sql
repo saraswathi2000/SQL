@@ -1,6 +1,6 @@
 -- sql Date functions
 
--- GET CURRENT DATE
+-- GET the CURRENT DATE
 SELECT CURRENT_DATE;
 
 -- GET CURRENT TIME
